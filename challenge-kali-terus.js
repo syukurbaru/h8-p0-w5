@@ -1,3 +1,4 @@
+// Membuat fungsi rekursif
 function kaliTerusRekursif(angka) {
   if (angka < 10) {
     return angka;
